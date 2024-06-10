@@ -1,4 +1,5 @@
 --!strict
+--!native
 -- Based on https://gist.github.com/Fraktality/1033625223e13c01aa7144abe4aaf54d
 
 export type Spring = {
